@@ -2,7 +2,7 @@
     {
       "question": "Hva er en megapixel?",
       "answers": ["1x10^6 pixler", "Et 4k bilde", "100x100 pixler", "Et svært bilde"],
-      "correctAnswer": "1x10^6 piksler",
+      "correctAnswer": "1x10^6 pixler",
       "type": "button"
     },
     {
