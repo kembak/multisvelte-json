@@ -1,7 +1,7 @@
 [
     {
       "question": "Hva er en megapixel",
-      "answers": ["1x10^6 piksler", "et 4k bilde", "100x100 piksler", "En gif"],
+      "answers": ["1x10^6 pixler", "Et 4k bilde", "100x100 pixler", "Et svært bilde"],
       "correctAnswer": "1x10^6 piksler",
       "type": "button"
     },
