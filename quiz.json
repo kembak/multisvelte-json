@@ -1,13 +1,36 @@
 [
     {
-      "question": "Hva er en megapixel?",
-      "answers": ["1x10^6 pixler", "Et 4k bilde", "100x100 pixler", "Et svært bilde"],
-      "correctAnswer": "1x10^6 pixler",
+      "spørsmål": "Hva er den vanligste størrelsen man oppgir lydkvalitet i?",
+      "alternativer": ["kb/hr", "Gbps", "kbps", "km/hr"],
+      "riktigsvar": "kbps",
       "type": "button"
     },
     {
-      "question": "Hvilket format gir komprimert lyd?",
-      "correctAnswer": "mp3",
+      "spørsmål": "Hvilket format er det mest brukte for komprimert lyd?",
+      "riktigsvar": "mp3",
       "type": "text"
+    },
+    {
+      "spørsmål": "Hvilken av disse er ikke et lydformat?",
+      "alternativer": ["mp3", "aac", "png", "ogg", "vorbis", "opus" ],
+      "riktigsvar": "png",
+      "type": "button"
+    },
+    {
+      "spørsmål": "Hvilket komprimeringsformat bør du bare velge hvis det er uviktig å beholde alle detaljer i et bilde?",
+      "alternativer": ["png", "jpeg" ],
+      "riktigsvar": "jpeg",
+      "type": "button"
+    },
+    {
+      "spørsmål": "Hva er oppløsningen til en standard aspekt full-HD video? svar som: TALLVERDIBREDDExTAllVERDIHØYDE",
+      "riktigsvar": "1920x1080",
+      "type": "text"
+    },
+    {
+      "spørsmål": "Hvilken komprimeringsteknikk gir de minste filene?",
+      "alternativer": ["destruktiv", "tapsfri"],
+      "riktigsvar": "destruktiv",
+      "type": "button"
     }
   ]
