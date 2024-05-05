@@ -23,7 +23,7 @@
       "type": "button"
     },
     {
-      "sporsmal": "Hva er oppløsningen til en standard aspekt full-HD video? svar som: TALLVERDIBREDDExTAllVERDIHØYDE",
+      "sporsmal": "Hva er oppløsningen til en standard aspekt full-HD video? svar som: breddexhøyde",
       "riktigsvar": "1920x1080",
       "type": "text"
     },
