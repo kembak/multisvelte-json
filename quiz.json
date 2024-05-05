@@ -1,34 +1,34 @@
 [
     {
-      "spørsmål": "Hva er den vanligste størrelsen man oppgir lydkvalitet i?",
+      "sporsmal": "Hva er den vanligste størrelsen man oppgir lydkvalitet i?",
       "alternativer": ["kb/hr", "Gbps", "kbps", "km/hr"],
       "riktigsvar": "kbps",
       "type": "button"
     },
     {
-      "spørsmål": "Hvilket format er det mest brukte for komprimert lyd?",
+      "sporsmal": "Hvilket format er det mest brukte for komprimert lyd?",
       "riktigsvar": "mp3",
       "type": "text"
     },
     {
-      "spørsmål": "Hvilken av disse er ikke et lydformat?",
+      "sporsmal": "Hvilken av disse er ikke et lydformat?",
       "alternativer": ["mp3", "aac", "png", "ogg", "vorbis", "opus" ],
       "riktigsvar": "png",
       "type": "button"
     },
     {
-      "spørsmål": "Hvilket komprimeringsformat bør du bare velge hvis det er uviktig å beholde alle detaljer i et bilde?",
+      "sporsmal": "Hvilket komprimeringsformat bør du bare velge hvis det er uviktig å beholde alle detaljer i et bilde?",
       "alternativer": ["png", "jpeg" ],
       "riktigsvar": "jpeg",
       "type": "button"
     },
     {
-      "spørsmål": "Hva er oppløsningen til en standard aspekt full-HD video? svar som: TALLVERDIBREDDExTAllVERDIHØYDE",
+      "sporsmal": "Hva er oppløsningen til en standard aspekt full-HD video? svar som: TALLVERDIBREDDExTAllVERDIHØYDE",
       "riktigsvar": "1920x1080",
       "type": "text"
     },
     {
-      "spørsmål": "Hvilken komprimeringsteknikk gir de minste filene?",
+      "sporsmal": "Hvilken komprimeringsteknikk gir de minste filene?",
       "alternativer": ["destruktiv", "tapsfri"],
       "riktigsvar": "destruktiv",
       "type": "button"
